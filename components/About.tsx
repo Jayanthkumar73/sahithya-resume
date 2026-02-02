@@ -17,7 +17,7 @@ const About: React.FC = () => {
                      Using a placeholder for the demo.
                  */}
                 <img
-                  src="Snapchat-1942839213~2.jpg.jpeg"
+                  src="/Snapchat-1942839213~2.jpg.jpeg"
                   alt="Labala Sahithya"
                   className="w-full h-full object-cover transform transition-transform duration-500 group-hover:scale-110"
                 />
